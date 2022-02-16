@@ -1,11 +1,11 @@
 {
-  "name": "my-init",
-  "version": "1.0.0",
+  "name": "bentleyer-init",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "bentleyer",
   "license": "ISC"
 }
